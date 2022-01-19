@@ -6,7 +6,7 @@ This repository contains our TMVP-based implementations for LightSaber, Saber, a
 
 Please clone this repository recursively to include [libopencm3](http://libopencm3.org/).
 ```
-    git clone --recursive https://github.com/NTRU-tmvp4-tmvp/NTRU-tmvp4-tmvp
+    git clone --recursive https://github.com/Saber-tmvp4-m4
 ```
 ## Testing and Benchmarking LightSaber, Saber, and FireSaber
 
